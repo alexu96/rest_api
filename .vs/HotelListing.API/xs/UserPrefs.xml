@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{517752C7-4E49-4F82-911A-FE588A48243A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HotelListing.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotelListing.API/Data/HotelListingDbContext.cs">
+    <Files>
+      <File FileName="HotelListing.API/Program.cs" Line="14" Column="1" />
+      <File FileName="HotelListing.API/Data/HotelListingDbContext.cs" Line="30" Column="1" />
+      <File FileName="HotelListing.API/Data/Hotel.cs" Line="17" Column="1" />
+      <File FileName="HotelListing.API/Data/Country.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotelListing.API" expanded="True">
+            <Node name="HotelListing.API" expanded="True">
+              <Node name="Data" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
