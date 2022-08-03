@@ -1,0 +1,15 @@
+2022-08-03 17:15:00.864 +05:30 [INF] Now listening on: https://localhost:7201
+2022-08-03 17:15:00.922 +05:30 [INF] Now listening on: http://localhost:5134
+2022-08-03 17:15:00.928 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-03 17:15:00.928 +05:30 [INF] Hosting environment: Development
+2022-08-03 17:15:00.928 +05:30 [INF] Content root path: /Users/gulsanborbhuiya/Projects/HotelListing.API/HotelListing.API/
+2022-08-03 18:21:38.768 +05:30 [INF] Now listening on: https://localhost:7201
+2022-08-03 18:21:38.853 +05:30 [INF] Now listening on: http://localhost:5134
+2022-08-03 18:21:38.860 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-03 18:21:38.860 +05:30 [INF] Hosting environment: Development
+2022-08-03 18:21:38.860 +05:30 [INF] Content root path: /Users/gulsanborbhuiya/Projects/HotelListing.API/HotelListing.API/
+2022-08-03 18:52:25.859 +05:30 [INF] Now listening on: https://localhost:7201
+2022-08-03 18:52:25.933 +05:30 [INF] Now listening on: http://localhost:5134
+2022-08-03 18:52:25.940 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-03 18:52:25.941 +05:30 [INF] Hosting environment: Development
+2022-08-03 18:52:25.941 +05:30 [INF] Content root path: /Users/gulsanborbhuiya/Projects/HotelListing.API/HotelListing.API/
